@@ -15,3 +15,4 @@ if(hide) {
         nav.classList.remove('active');
     })
 }
+
